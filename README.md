@@ -1,5 +1,5 @@
 # Files Menagment Software(SOFTVERSKA KOMPONENTA)
-  Aplikacija koja upravlja fajlovima(kreiranje,brisanje,premestanje,dodavanje,menjanje imena...) na localu i na google drive-u.
+  Aplikacija koja upravlja fajlovima(kreiranje,brisanje,premestanje,dodavanje,menjanje...) na localu i na google drive-u.
 
 # Opis
   Aplikacija je napravljena kao softverska komponenta.<br>
