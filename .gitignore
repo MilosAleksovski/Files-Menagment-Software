@@ -1,0 +1,4 @@
+# Project exclude paths
+/UsLocImpl/target/
+/UsSpec/target/
+/UsTest/target/
